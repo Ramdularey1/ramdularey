@@ -1,0 +1,24 @@
+{
+  "name": "Ram Dularey ",
+  "short_name": "Ram",
+  "icons": [
+    {
+      "src": "/favicon.jpeg",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/favicon.jpeg",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/favicon.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}
