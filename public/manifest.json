@@ -1,19 +1,19 @@
 {
-  "name": "Ram Dularey ",
-  "short_name": "Ram",
+  "name": "Next.js Notion Starter Kit",
+  "short_name": "Starter Kit",
   "icons": [
     {
-      "src": "/favicon.jpeg",
+      "src": "/favicon.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon.jpeg",
+      "src": "/favicon-128x128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/favicon.jpeg",
+      "src": "/favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
